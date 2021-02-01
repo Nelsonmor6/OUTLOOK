@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Feb 2021 17:51:39 at https://outlook.live.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://outlook.live.com/ -O1 "C:\Users\camil\Desktop\musica\WORK" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:51:42	Warning: 	Found for https://outlook.live.com/robots.txt
+17:51:42	Warning: 	File has moved from https://outlook.live.com/robots.txt to /owa/robots.txt
+17:51:42	Warning: 	Moved Temporarily for https://outlook.live.com/
+17:51:42	Warning: 	File has moved from https://outlook.live.com/ to https://outlook.live.com/owa/
+17:52:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://outlook.live.com/owa/prefetch.aspx
+17:52:05	Warning: 	Found for https://outlook.live.com/owa/?nlp=1
+17:52:05	Warning: 	File has moved from https://outlook.live.com/owa/?nlp=1 to https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1612173404&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3dea283101-f45e-3075-1b28-a14a46bc7636&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld
+17:52:05	Warning: 	Found for https://outlook.live.com/owa/?nlp=1&signup=1
+17:52:05	Warning: 	File has moved from https://outlook.live.com/owa/?nlp=1&signup=1 to https://signup.live.com/signup?lcid=1033&wa=wsignin1.0&rpsnv=13&ct=1612173404&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26signup%3d1%26RpsCsrfState%3df81b9660-980d-3cd7-7693-03fc8fc6763c&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 38 links scanned, 34 files written (2572775 bytes overall) [2374387 bytes received at 94975 bytes/sec], 303598 bytes transferred using HTTP compression in 9 files, ratio 26%, 4.2 requests per connection
+(No errors, 9 warnings, 0 messages)

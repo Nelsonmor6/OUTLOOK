@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+outlook.live.com	TRUE	/	FALSE	1999999999	ClientId	7394C67AEFC34C12AC7ECAE8FBC3B334
+outlook.live.com	TRUE	/	FALSE	1999999999	RpsCsrfState.eXNqZx95kYkH5zdgzR-yc_FTEXO_Vw6jiHKyLl5jbLU	ea283101-f45e-3075-1b28-a14a46bc7636
+live.com	TRUE	/	FALSE	1999999999	logonLatency	LGN01=637477702048984372
+outlook.live.com	TRUE	/	FALSE	1999999999	exchangecookie	b23b3e20c13645aeafbd78d2b421001a
+outlook.live.com	TRUE	/	FALSE	1999999999	RpsCsrfState.c5BeSsNrr6_wc43ZuCVMPPdRpAzo9DSEnek4dLX113M	f81b9660-980d-3cd7-7693-03fc8fc6763c
+outlook.live.com	TRUE	/	FALSE	1999999999	X-OWA-RedirectHistory	Aul4zjoBSfvcrpfG2Ag
+outlook.live.com	TRUE	/	FALSE	1999999999	SameSite	None
+
